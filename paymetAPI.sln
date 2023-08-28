@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paymetAPI", "paymetAPI\paymetAPI.csproj", "{E81708BC-B5C9-484C-A931-910F696AE93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81708BC-B5C9-484C-A931-910F696AE93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81708BC-B5C9-484C-A931-910F696AE93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81708BC-B5C9-484C-A931-910F696AE93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81708BC-B5C9-484C-A931-910F696AE93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EDF9599-E85A-46CB-99F0-3C5F9D78B961}
+	EndGlobalSection
+EndGlobal
